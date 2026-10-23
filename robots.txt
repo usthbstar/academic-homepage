@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# After choosing your final website URL, add: Sitemap: https://YOUR_DOMAIN/sitemap.xml
